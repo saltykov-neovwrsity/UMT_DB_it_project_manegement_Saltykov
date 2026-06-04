@@ -5,7 +5,7 @@
 
 Як використовувати:
 1. Спочатку виконай CREATE TABLE скрипт у MySQL Workbench.
-2. Запусти цей файл: python generate_test_data.py
+2. Запусти цей файл: python generate_test_data_faker.py
 3. У результаті буде створено файл test_data.sql.
 4. Відкрий test_data.sql у MySQL Workbench і виконай його.
 
